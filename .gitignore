@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Source PDFs are kept local, not committed (see sources/source-notes.md)
+*.pdf
+
+# Local agent/runtime artifacts
+.claude/
+node_modules/

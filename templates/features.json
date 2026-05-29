@@ -1,0 +1,10 @@
+[
+  {
+    "id": "F00",
+    "behavior": "EXAMPLE — replace this with a real feature. Behavior description should be testable: 'POST /api/cart/items with {product_id, quantity} returns 201 with the new item ID'",
+    "verification": "EXAMPLE — replace with an executable command: 'curl -X POST http://localhost:3000/api/cart/items -d \\'{\\\"product_id\\\":1,\\\"quantity\\\":1}\\' | jq .status == 201'",
+    "state": "not_started",
+    "evidence": null,
+    "notes": "Optional free-text. Delete this example entry once you add real features."
+  }
+]
