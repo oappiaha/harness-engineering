@@ -15,6 +15,7 @@ If you've never built a harness, **start here.** Read in order; each one builds 
 | 03 | The seven decisions | The architectural bets every harness faces (Akshay's diagram, fully explained) | 01, 02 |
 | 04 | Shopping deep dive | A worked example: why a shopping agent breaks every assumption from coding agents | 01–03 |
 | 05 | Where sources disagree | The three big debates and which dissolve into "specify your scope" | 01–04 |
+| 06 | Pi and the thesis | Does specialization just mean "more tools"? Why the *gap type* decides, not the harness | 01–05 |
 
 For uncertainties and where this folder might age badly, see `../uncertainties-and-futures.md` (it's a reference doc rather than a walkthrough because it serves as a corrective lens you'd want to re‑consult).
 
